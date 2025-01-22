@@ -1,0 +1,14 @@
+my-website/
+1. index.html
+2. about.html
+3. contact.html
+4. styles.css
+5. script.js
+6. assets/
+  6.1 image1.jpg
+  6.2 image2.jpg
+_________________________________
+For this multipage website project, I opted for a clean and minimalistic design to enhance user experience and readability. The color scheme features calming shades of blue and green, which are visually appealing and promote a sense of trust and professionalism. The layout is responsive, utilizing CSS Flexbox to ensure that the website functions well on devices of all sizes, from desktops to mobile phones.
+JavaScript was implemented to add interactivity and functionality to the website. Key features include form validation on the contact page, ensuring users provide valid input before submission. This enhances user experience by providing immediate feedback. Additionally, I created functions to demonstrate parameter usage and variable scope, showcasing my understanding of JavaScript fundamentals.
+During development, one challenge I faced was ensuring the website's responsiveness across various devices. I overcame this by using media queries and testing on different screen sizes to adjust styles accordingly.
+For deployment, I chose GitHub Pages. After pushing the project files to a new GitHub repository, I enabled GitHub Pages in the repository settings, making the website live and accessible via a unique URL. This process allowed me to showcase my work effectively online.
